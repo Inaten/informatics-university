@@ -1,0 +1,3 @@
+[submodule "informatics-university"]
+	path = informatics-university
+	url = https://github.com/username/informatics-university.git
